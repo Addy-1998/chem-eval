@@ -1,0 +1,27 @@
+[project]
+name = "chem-eval"
+version = "0.1.0"
+description = "Evaluating LLMs on automatically verifiable chemistry tasks (Inspect + RDKit)"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.4.0",
+    "inspect-ai>=0.3.287",
+    "numpy>=2.5.4",
+    "openai>=3.42.1",
+    "rdkit>=2026.9.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.2,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-root = ""
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

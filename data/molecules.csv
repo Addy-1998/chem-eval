@@ -1,0 +1,31 @@
+name,smiles,difficulty,pubchem_cid,pubchem_mw
+water,O,easy,962,18.015
+methanol,CO,easy,887,32.042
+ethanol,CCO,easy,702,46.07
+acetic acid,CC(=O)O,easy,176,60.05
+acetone,CC(C)=O,easy,180,58.08
+benzene,c1ccccc1,easy,241,78.11
+toluene,Cc1ccccc1,easy,1140,92.14
+phenol,Oc1ccccc1,easy,996,94.11
+cyclohexane,C1CCCCC1,easy,8078,84.16
+carbon dioxide,O=C=O,easy,280,44.009
+aspirin,CC(=O)Oc1ccccc1C(=O)O,medium,2244,180.16
+caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,medium,2519,194.19
+paracetamol,CC(=O)Nc1ccc(O)cc1,medium,1983,151.16
+ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,medium,3672,206.28
+naphthalene,c1ccc2ccccc2c1,medium,931,128.17
+pyridine,c1ccncc1,medium,1049,79.10
+benzoic acid,O=C(O)c1ccccc1,medium,243,122.12
+2-methylpropan-2-ol,CC(C)(C)O,medium,6386,74.12
+ethyl ethanoate,CCOC(C)=O,medium,8857,88.11
+indole,c1ccc2[nH]ccc2c1,medium,798,117.15
+L-alanine,C[C@H](N)C(=O)O,hard,5950,89.09
+(S)-nicotine,CN1CCC[C@H]1c1cccnc1,hard,89594,162.23
+L-menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,hard,16666,156.26
+L-ascorbic acid,O=C1O[C@H]([C@@H](O)CO)C(O)=C1O,hard,54670067,176.12
+testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,hard,6013,288.4
+cholesterol,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,hard,5997,386.7
+morphine,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,hard,5288826,285.34
+quinine,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,hard,3034034,324.4
+capsaicin,COc1cc(CNC(=O)CCCC/C=C/C(C)C)ccc1O,hard,1548943,305.4
+sildenafil,CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12,hard,135398744,474.6
